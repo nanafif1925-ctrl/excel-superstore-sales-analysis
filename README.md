@@ -78,7 +78,7 @@ Business Recommendations
 Project Files
 
 - `Excel_Sales_Data_Analysis_Portfolio.xlsx` — Complete Excel analysis workbook
-- `dashboard.png` — Interactive dashboard screenshot
+- `dashboard 1.png` `dashboard 2.png` — Interactive dashboard screenshot
 - `README.md` — Project documentation
 
 Skills Demonstrated
